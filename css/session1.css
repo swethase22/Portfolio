@@ -1,0 +1,147 @@
+body{
+    margin: 0px;
+}
+
+.Profile{
+    border: solid black 2pt;
+    margin-left: auto;
+    font-size: large;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px ;
+    position: relative;
+    
+}
+
+#image{
+    float: right;
+    margin-left: auto;
+    border-image: 10%;
+    border-radius: 50%;
+    padding: auto;
+    
+}
+
+.nav_bar{
+    background-color: grey;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    
+
+}
+
+.navoption{
+    text-decoration: none;
+    margin-right: 10px ;
+    height: 50px;
+    padding: 20px;
+    color: black;
+}
+
+.navoption:hover{
+    background-color: black;
+    color: white;
+}
+
+#text{
+    margin-left: 30%;
+    width: 45%;
+    border: solid 1pt black;
+    padding: 20px;
+    border-radius: 40px; 
+    font-size: large;
+    background-color: rgb(213, 211, 211); 
+    margin-bottom: 100px;
+}
+.abt_me{
+    text-align: justify;
+}
+
+ .contact{
+    margin-left: 45%;
+    
+} 
+
+#edu{
+    font-size: 40px; 
+    font-weight: bold; 
+    background-color: rgb(43, 43, 43);
+    color: azure    ; 
+    text-align: center; 
+    height: 12  0px; 
+    width: 30%; 
+    padding-top: 130px;
+    padding-bottom: 130px;
+    border: none;
+    border-radius: 60px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.education, .info{
+    border: black solid 2px;
+    border-collapse: collapse;
+    border-radius: 10px;
+    margin-left: 40%;
+    text-align: center;
+    padding: 20px;
+    font-size: large;
+    margin-top: -350px;
+   
+}
+
+.education{
+    padding-right: 30px;
+    margin-bottom: 100px;
+}
+
+.footer{
+    border: solid black 2pt;
+    height: 200px;
+    font-size: large;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px ;
+    margin-top: 20px    ;
+    
+}
+
+.projects, .proj_deets{
+    border: black solid 2px;
+    border-collapse: collapse;
+    padding: 10px 0px;
+}
+
+.proj_deets{
+    text-align: center;
+}
+.projects{
+    font-size: larger;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 180px;
+    margin-bottom: 100px;
+
+}
+
+.my_proj{
+    font-size: 40px; 
+    font-weight: bold; 
+    background-color: rgb(43, 43, 43);
+    color: azure    ; 
+    text-align: center; 
+    height: 12  0px; 
+    width: 30%; 
+    padding-top: 130px;
+    padding-bottom: 130px;
+    border: none;
+    border-radius: 60px;
+    margin-right: 50px;
+    float: right;
+    margin-bottom: -2px;
+}
+
